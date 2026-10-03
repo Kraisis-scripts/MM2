@@ -1634,5 +1634,3 @@ MapTab:Toggle({
         end
     end
 })
-
-MapTab:GetToggle("Enable Anti AFK"):SetState(true)
